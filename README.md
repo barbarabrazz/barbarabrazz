@@ -7,7 +7,7 @@
 
 ##  🎀 about me
 
-🇧🇷 brazilian, fortaleza|ce
-💻 software engineering student
-📸 tech/lifestyle
+- 🇧🇷 brazilian, fortaleza|ce
+- 💻 software engineering student
+- 📸 tech/lifestyle
 
